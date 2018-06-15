@@ -1,2 +1,2 @@
-# -cn.ocrbaby.org-
+# ocrbaby.com
  📄 The official documentation site for ocr baby. https://www.ocrbaby.com 
